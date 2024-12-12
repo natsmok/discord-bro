@@ -262,4 +262,4 @@ async def on_ready():
 
 sever_on()
 
-bot.run(os.getenv) ('MTMxNjc5MjE5MTYxNTUwNDUwOQ.GJaplJ.4vBvUZ7gWtgawdjHktQTPBPwziy4kTT328GMqc')
+bot.run(os.getenv) ('Token')
